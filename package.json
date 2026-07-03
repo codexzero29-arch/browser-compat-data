@@ -77,7 +77,7 @@
     "fdir": "~6.4.0",
     "globals": "^16.0.0",
     "json-schema-to-typescript": "~15.0.0",
-    "lefthook": "^1.11.7",
+    "lefthook": "^2.1.9",
     "markdown-table": "^3.0.4",
     "marked": "^15.0.1",
     "mocha": "~11.2.2",
